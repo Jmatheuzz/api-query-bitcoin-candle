@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.js": "/bitcoin-candle/static/js/main.26464e7c.chunk.js",
+    "main.js.map": "/bitcoin-candle/static/js/main.26464e7c.chunk.js.map",
+    "runtime-main.js": "/bitcoin-candle/static/js/runtime-main.edd4bef9.js",
+    "runtime-main.js.map": "/bitcoin-candle/static/js/runtime-main.edd4bef9.js.map",
+    "static/js/2.0711a6d4.chunk.js": "/bitcoin-candle/static/js/2.0711a6d4.chunk.js",
+    "static/js/2.0711a6d4.chunk.js.map": "/bitcoin-candle/static/js/2.0711a6d4.chunk.js.map",
+    "index.html": "/bitcoin-candle/index.html",
+    "precache-manifest.2967e16ac96637c8a18ca5120c52e106.js": "/bitcoin-candle/precache-manifest.2967e16ac96637c8a18ca5120c52e106.js",
+    "service-worker.js": "/bitcoin-candle/service-worker.js",
+    "static/js/2.0711a6d4.chunk.js.LICENSE.txt": "/bitcoin-candle/static/js/2.0711a6d4.chunk.js.LICENSE.txt",
+    "static/js/main.26464e7c.chunk.js.LICENSE.txt": "/bitcoin-candle/static/js/main.26464e7c.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.edd4bef9.js",
+    "static/js/2.0711a6d4.chunk.js",
+    "static/js/main.26464e7c.chunk.js"
+  ]
+}
