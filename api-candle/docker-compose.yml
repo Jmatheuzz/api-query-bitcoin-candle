@@ -1,0 +1,15 @@
+services:
+  postgres:
+    image: postgres
+    container_name: postgres-candle
+    environment:
+      POSTGRES_USERNAME: ${TYPEORM_USERNAME}
+      POSTGRES_PASSWORD: ${TYPEORM_PASSWORD}
+      POSTGRES_DB: ${TYPEORM_DATABASE}
+    ports:
+      - "10000:5432"
+    networks:
+      - candle-system
+networks:
+  candle-system:
+    external: true
